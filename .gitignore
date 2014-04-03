@@ -9,6 +9,7 @@
 *.vcxproj
 *.md
 *.filters
+*.opensdf
 
 # build folder
 intermediate/
